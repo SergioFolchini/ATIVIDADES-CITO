@@ -6,6 +6,23 @@
     width: 325px;
 }
 
-.email__contato {
-    border: 2px solid #000;
+.informacoes {
+    background-color: black;
+}
+
+.informacoes__titulo {
+    color: white;
+}
+
+.informacoes__imagem {
+    color: #daff01;
+}
+
+.informacoes__texto {
+    color: #CCCCCC;
+}
+
+.cor__botao {
+    background-color: #9353ff;
+    border-color: #9353ff;
 }
